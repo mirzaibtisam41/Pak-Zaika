@@ -1,0 +1,176 @@
+[
+  {
+    "id": 1,
+    "name": "Margherita Pizza",
+    "category": "Main Course",
+    "price": 14.99,
+    "image": "/images/MargheritaPizza.jpg",
+    "description": "Classic Pakistani pizza with fresh mozzarella, tomatoes, and basil",
+    "ingredients": [
+      "Fresh Mozzarella",
+      "Tomato Sauce",
+      "Fresh Basil",
+      "Olive Oil",
+      "Pizza Dough"
+    ],
+    "rating": 4.5,
+    "reviews": 23,
+    "featured": true
+  },
+  {
+    "id": 2,
+    "name": "Caesar Salad",
+    "category": "Starters",
+    "price": 9.99,
+    "image": "/images/CaesarSalad.jpg",
+    "description": "Crisp romaine lettuce with parmesan cheese, croutons, and caesar dressing",
+    "ingredients": [
+      "Romaine Lettuce",
+      "Parmesan Cheese",
+      "Croutons",
+      "Caesar Dressing",
+      "Anchovies"
+    ],
+    "rating": 4.2,
+    "reviews": 18,
+    "featured": false
+  },
+  {
+    "id": 3,
+    "name": "Grilled Salmon",
+    "category": "Main Course",
+    "price": 22.99,
+    "image": "/images/GrilledSalmon.jpg",
+    "description": "Fresh Atlantic salmon grilled to perfection with lemon herb butter",
+    "ingredients": [
+      "Atlantic Salmon",
+      "Lemon",
+      "Herbs",
+      "Butter",
+      "Garlic",
+      "Asparagus"
+    ],
+    "rating": 4.8,
+    "reviews": 31,
+    "featured": true
+  },
+  {
+    "id": 4,
+    "name": "Chocolate Lava Cake",
+    "category": "Desserts",
+    "price": 7.99,
+    "image": "/images/ChocolateLavaCake.jpg",
+    "description": "Warm chocolate cake with molten center, served with vanilla ice cream",
+    "ingredients": [
+      "Dark Chocolate",
+      "Butter",
+      "Eggs",
+      "Sugar",
+      "Flour",
+      "Vanilla Ice Cream"
+    ],
+    "rating": 4.9,
+    "reviews": 42,
+    "featured": true
+  },
+  {
+    "id": 5,
+    "name": "Craft Beer",
+    "category": "Drinks",
+    "price": 5.99,
+    "image": "/images/CraftBeer.jpg",
+    "description": "Local craft beer with hoppy flavor and crisp finish",
+    "ingredients": ["Hops", "Malt", "Yeast", "Water"],
+    "rating": 4.3,
+    "reviews": 15,
+    "featured": false
+  },
+  {
+    "id": 6,
+    "name": "Bruschetta",
+    "category": "Starters",
+    "price": 8.99,
+    "image": "/images/bruschettaToastedBreadwithToppingsbruschetta.jpg",
+    "description": "Toasted bread topped with fresh tomatoes, garlic, and basil",
+    "ingredients": [
+      "Bread",
+      "Tomatoes",
+      "Garlic",
+      "Basil",
+      "Olive Oil",
+      "Balsamic Vinegar"
+    ],
+    "rating": 4.1,
+    "reviews": 12,
+    "featured": false
+  },
+  {
+    "id": 7,
+    "name": "Ribeye Steak",
+    "category": "Main Course",
+    "price": 28.99,
+    "image": "/images/RibeyeSteak.jpg",
+    "description": "Premium ribeye steak cooked to your preference with garlic mashed potatoes",
+    "ingredients": [
+      "Ribeye Steak",
+      "Garlic",
+      "Potatoes",
+      "Butter",
+      "Rosemary",
+      "Black Pepper"
+    ],
+    "rating": 4.7,
+    "reviews": 28,
+    "featured": true
+  },
+  {
+    "id": 8,
+    "name": "Tiramisu",
+    "category": "Desserts",
+    "price": 6.99,
+    "image": "/images/Tiramisu.jpg",
+    "description": "Classic Pakistani dessert with coffee-soaked ladyfingers and mascarpone",
+    "ingredients": [
+      "Ladyfingers",
+      "Coffee",
+      "Mascarpone",
+      "Eggs",
+      "Sugar",
+      "Cocoa Powder"
+    ],
+    "rating": 4.6,
+    "reviews": 19,
+    "featured": false
+  },
+  {
+    "id": 9,
+    "name": "Fresh Orange Juice",
+    "category": "Drinks",
+    "price": 3.99,
+    "image": "/images/OrangeJuice.jpg",
+    "description": "Freshly squeezed orange juice, no added sugar",
+    "ingredients": ["Fresh Oranges"],
+    "rating": 4.4,
+    "reviews": 8,
+    "featured": false
+  },
+  {
+    "id": 10,
+    "name": "Mushroom Risotto",
+    "category": "Main Course",
+    "price": 18.99,
+    "image": "/images/mushroomrisottoDeliciouscreamydishmushroomrisotto.jpg",
+    "description": "Creamy arborio rice with mixed mushrooms and parmesan cheese",
+    "ingredients": [
+      "Arborio Rice",
+      "Mixed Mushrooms",
+      "Parmesan",
+      "White Wine",
+      "Vegetable Stock",
+      "Onion"
+    ],
+    "rating": 4.5,
+    "reviews": 21,
+    "featured": false
+  }
+]
